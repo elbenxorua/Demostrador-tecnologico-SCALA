@@ -17,3 +17,10 @@ Enlaces de interes
 [1]: http://www.scala-lang.org/
 [2]: http://www.gnu.org/software/emacs/
 [3]: http://git-scm.com/
+
+Tutoriales Scala:
+http://www.adictosaltrabajo.com/tutoriales/tutoriales.php?pagina=scala
+http://www.adictosaltrabajo.com/tutoriales/tutoriales.php?pagina=liftweb
+
+Frameworks Scala:
+LiftWeb: http://liftweb.net/
