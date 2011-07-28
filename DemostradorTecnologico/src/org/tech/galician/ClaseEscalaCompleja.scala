@@ -35,10 +35,16 @@ object ClaseEscalaCompleja {
  // LA BOMBA!!! Sólo le falta el tipado dinámico en ámbito local y ya puedes hacer consultas SQL de forma dinámica en Runtime		  				
   val listaFiltradaClases = listaInicial.filter(x=>(x.numero2%2==0 && x.valor2.contains("Hol")))
   
+  //CLASE ESTRUCTURAL ANÓNIMA!! BRAVO BRAVO BRAO
+  val lista2=listaFiltradaClases.map(x=>(x.numero2,"Valor","Prueba"))
+  
+  
   println("LISTA FINAL: ")
   for(instancia <- listaFiltradaClases)
     println(instancia.numero2+" "+instancia.valor2)
-  
+    
+   for(instancia <- lista2)
+    println(instancia._1+" "+instancia._2+" "+instancia._3)
 		
 		  				
 
