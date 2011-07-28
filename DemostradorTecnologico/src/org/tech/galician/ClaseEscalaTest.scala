@@ -41,7 +41,8 @@ object ClaseEscalaTest extends ObjectRef {
     var claseA = new claseA
     var claseB : claseB = new claseB
     
-    claseB
+    //Los objetos Singleton no se inicalizan
+    var nuevoSingleton= ClaseEscalaCompleja
   }
   
    
