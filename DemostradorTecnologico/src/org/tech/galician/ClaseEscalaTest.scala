@@ -44,7 +44,7 @@ object ClaseEscalaTest extends ObjectRef {
     claseB
   }
   
-  
+   
   
   /*
    * FUNCIONES O MÉTODOS

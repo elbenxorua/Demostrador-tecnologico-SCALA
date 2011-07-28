@@ -14,11 +14,12 @@ Enlaces de interes
  - [GIT][3]
  - [TUTORIAL SCALA BASICO][4]
  - [TUTORIAL SCALA LIFTWEB][5]
+ - [Libro gratis SCALA][7]
  
  
  Frameworks Scala:
  
-  - [LiftWeb] : Todavía no se para que pero supongo que Web
+  - [LiftWeb][6] : Todavía no se para que pero supongo que Web, parece que Ajax y Comet MMMMM
   
   Me está molando el Git este y el GitHub tb. Habrá que verlo cuando trabajen 50 personas en el mismo proyecto.
 
@@ -29,6 +30,7 @@ Enlaces de interes
 [4]: http://www.adictosaltrabajo.com/tutoriales/tutoriales.php?pagina=scala
 [5]: http://www.adictosaltrabajo.com/tutoriales/tutoriales.php?pagina=liftweb
 [6]: http://liftweb.net/
+[7]: http://ofps.oreilly.com/titles/9780596155957/
 
 
 
