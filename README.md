@@ -20,6 +20,9 @@ Enlaces de interes
 
 Tutoriales Scala:
 
+ - [SCALA BASICO][1]
+ - [SCALA LIFTWEB][2]
+
 [1]: http://www.adictosaltrabajo.com/tutoriales/tutoriales.php?pagina=scala
 [2]: http://www.adictosaltrabajo.com/tutoriales/tutoriales.php?pagina=liftweb
 
