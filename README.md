@@ -19,8 +19,8 @@ Enlaces de interes
 [3]: http://git-scm.com/
 
 Tutoriales Scala:
-http://www.adictosaltrabajo.com/tutoriales/tutoriales.php?pagina=scala
-http://www.adictosaltrabajo.com/tutoriales/tutoriales.php?pagina=liftweb
+[1]: http://www.adictosaltrabajo.com/tutoriales/tutoriales.php?pagina=scala
+[2]: http://www.adictosaltrabajo.com/tutoriales/tutoriales.php?pagina=liftweb
 
 Frameworks Scala:
 LiftWeb: http://liftweb.net/
