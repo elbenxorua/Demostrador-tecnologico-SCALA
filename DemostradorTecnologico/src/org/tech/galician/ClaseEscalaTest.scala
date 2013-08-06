@@ -14,7 +14,7 @@ import scala.runtime.ObjectRef
  */
 object ClaseEscalaTest extends ObjectRef {
 
- 
+ /*Lalalala**/
   
   
   def main(args: Array[String]): Unit = {
